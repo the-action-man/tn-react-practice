@@ -1,0 +1,13 @@
+# mac OS 
+.DS_Store
+
+# ITELIJ idea
+.idea
+
+# vscode
+.vscode
+
+# proj
+.parcel-cache
+dist
+node_modules
