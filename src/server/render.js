@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOMServer from 'react-dom/server';
 
-import App from './App';
+import App from '../App';
 
 const product = {
   'Title': 'Apple Macbook Pro 16\'',
